@@ -2,10 +2,13 @@ body {
 color: rgb(255, 255, 255);
 background: black;
 margin: 0px
-{ header 
-border: solid 2px rgb(blueviolet);
-margin: 20px
+}
+ header{
+border-bottom:solid 2px rgb(rgb(191, 0, 255), rgb(5, 134, 255), blue)
+ margin: 20px;
+
+
+ 
 }
 
 
-}
